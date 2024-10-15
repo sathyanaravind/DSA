@@ -58,6 +58,12 @@ list of solutions to common coding problems
 6. Heap
 
 ### Recursion
+1. print name 5 times
+2. print 1 to N
+3. print N to 1
+4. print 1 to N backtracking
+5. print N to 1 backtracking
+6. multiple recursion fibonacci
 
 ## Problems and Solutions
 ### Array and Hashing
